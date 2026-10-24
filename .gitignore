@@ -1,0 +1,33 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Local data (vector DB, uploads) — not committed
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Test artifacts
+temp*.pdf
+test_groq.py
+benchmark_test.py
+
+# Streamlit local cache
+.streamlit/secrets.toml
+
+

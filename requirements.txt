@@ -1,0 +1,30 @@
+# Core
+fastapi
+uvicorn
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+
+# Vector store
+qdrant-client
+
+# Embeddings (local, free)
+sentence-transformers
+
+# Document loading
+pypdf
+
+# Settings & env
+pydantic
+pydantic-settings
+python-dotenv
+
+# Frontend
+streamlit
+
+# HTTP client (Streamlit → FastAPI)
+requests
